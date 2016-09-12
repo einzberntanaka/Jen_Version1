@@ -106,8 +106,8 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="System.Web.Mvc, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
-      <SpecificVersion>True</SpecificVersion>
-      <HintPath>bin\System.Web.Mvc.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET MVC 4\Assemblies\System.Web.Mvc.dll</HintPath>
     </Reference>
     <Reference Include="System.Xml.Linq">
       <Private>True</Private>
@@ -152,7 +152,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="bin\System.Web.Mvc.dll" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
